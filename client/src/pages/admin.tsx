@@ -94,9 +94,7 @@ export default function Admin() {
               </form>
               
               <div className="mt-6 text-center text-sm text-muted-foreground">
-                <p>Demo credentials:</p>
-                <p><strong>Username:</strong> admin</p>
-                <p><strong>Password:</strong> cedarmond2024</p>
+                
               </div>
             </CardContent>
           </Card>
